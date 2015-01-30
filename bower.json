@@ -1,0 +1,6 @@
+{
+  "name": "scribe-plugin-toolbar-global",
+  "version": "v0.1.4",
+  "main": "scribe-plugin-toolbar.js",
+  "license": "Apache 2"
+}
